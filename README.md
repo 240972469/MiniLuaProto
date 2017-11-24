@@ -1,3 +1,3 @@
 # MiniLuaProto
 MiniLuaProto
-a simple proto, no other lib needed
+is a simple proto, no other lib needed
